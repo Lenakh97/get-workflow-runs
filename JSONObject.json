@@ -1,0 +1,263 @@
+{
+  "workflow_runs": [
+    {
+      "name": "asset-tracker-cloud-app-aws-js",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/asset-tracker-cloud-app-aws-js/actions/runs/2725666036",
+      "updated_at": "2022-07-24T01:54:59Z"
+    },
+    {
+      "name": "asset-tracker-cloud-app-js",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/asset-tracker-cloud-app-js/actions/runs/2725533370",
+      "updated_at": "2022-07-24T00:47:18Z"
+    },
+    {
+      "name": "asset-tracker-cloud-aws-js",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/asset-tracker-cloud-aws-js/actions/runs/2725923309",
+      "updated_at": "2022-07-24T03:51:45Z"
+    },
+    {
+      "name": "asset-tracker-cloud-azure-js",
+      "branch": "saga",
+      "conclusion": "failure",
+      "url": "https://github.com/NordicSemiconductor/asset-tracker-cloud-azure-js/actions/runs/2726877762",
+      "updated_at": "2022-07-24T10:18:38Z"
+    },
+    {
+      "name": "asset-tracker-cloud-code-style-js",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/asset-tracker-cloud-code-style-js/actions/runs/2725651183",
+      "updated_at": "2022-07-24T01:48:02Z"
+    },
+    {
+      "name": "asset-tracker-cloud-device-simulator-aws-js",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/asset-tracker-cloud-device-simulator-aws-js/actions/runs/2725704642",
+      "updated_at": "2022-07-24T02:12:08Z"
+    },
+    {
+      "name": "asset-tracker-cloud-device-simulator-azure-js",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/asset-tracker-cloud-device-simulator-azure-js/actions/runs/2725674861",
+      "updated_at": "2022-07-24T01:58:51Z"
+    },
+    {
+      "name": "asset-tracker-cloud-device-ui-js",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/asset-tracker-cloud-device-ui-js/actions/runs/2725566998",
+      "updated_at": "2022-07-24T01:03:19Z"
+    },
+    {
+      "name": "asset-tracker-cloud-device-ui-server-js",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/asset-tracker-cloud-device-ui-server-js/actions/runs/2725744290",
+      "updated_at": "2022-07-24T02:28:53Z"
+    },
+    {
+      "name": "asset-tracker-cloud-docs",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/asset-tracker-cloud-docs/actions/runs/2697794361",
+      "updated_at": "2022-07-19T12:57:49Z"
+    },
+    {
+      "name": "asset-tracker-cloud-eslint-config-typescript",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/asset-tracker-cloud-eslint-config-typescript/actions/runs/2725721131",
+      "updated_at": "2022-07-24T02:18:50Z"
+    },
+    {
+      "name": "asset-tracker-cloud-firmware-aws",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/asset-tracker-cloud-firmware-aws/actions/runs/2725671318",
+      "updated_at": "2022-07-24T01:57:14Z"
+    },
+    {
+      "name": "asset-tracker-cloud-firmware-azure",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/asset-tracker-cloud-firmware-azure/actions/runs/2725605927",
+      "updated_at": "2022-07-24T01:24:01Z"
+    },
+    {
+      "name": "asset-tracker-cloud-memfault-aws-js",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/asset-tracker-cloud-memfault-aws-js/actions/runs/2725958456",
+      "updated_at": "2022-07-24T04:14:39Z"
+    },
+    {
+      "name": "asset-tracker-cloud-memfault-azure-js",
+      "branch": "initial",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/asset-tracker-cloud-memfault-azure-js/actions/runs/2725550837",
+      "updated_at": "2022-07-24T00:55:54Z"
+    },
+    {
+      "name": "at_host-hex",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/at_host-hex/actions/runs/2725725126",
+      "updated_at": "2022-07-24T02:20:48Z"
+    },
+    {
+      "name": "cell-geolocation-helpers-js",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/cell-geolocation-helpers-js/actions/runs/2725720534",
+      "updated_at": "2022-07-24T02:18:43Z"
+    },
+    {
+      "name": "cloud-aws-cloudformation-cleaner-js",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/cloud-aws-cloudformation-cleaner-js/actions/runs/2725947328",
+      "updated_at": "2022-07-24T04:01:56Z"
+    },
+    {
+      "name": "cloud-aws-cloudformation-helpers-js",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/cloud-aws-cloudformation-helpers-js/actions/runs/2725568866",
+      "updated_at": "2022-07-24T01:04:19Z"
+    },
+    {
+      "name": "cloud-aws-firmware-ci-device-action",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/cloud-aws-firmware-ci-device-action/actions/runs/2725717263",
+      "updated_at": "2022-07-24T02:17:13Z"
+    },
+    {
+      "name": "cloud-aws-firmware-ci-feature-runner-action",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/cloud-aws-firmware-ci-feature-runner-action/actions/runs/2725504150",
+      "updated_at": "2022-07-24T00:34:29Z"
+    },
+    {
+      "name": "cloud-aws-firmware-ci-runner-js",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/cloud-aws-firmware-ci-runner-js/actions/runs/2726185365",
+      "updated_at": "2022-07-24T05:45:40Z"
+    },
+    {
+      "name": "cloud-aws-package-layered-lambdas-js",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/cloud-aws-package-layered-lambdas-js/actions/runs/2725736542",
+      "updated_at": "2022-07-24T02:25:24Z"
+    },
+    {
+      "name": "cloud-aws-timestream-helpers-js",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/cloud-aws-timestream-helpers-js/actions/runs/2725653612",
+      "updated_at": "2022-07-24T01:49:16Z"
+    },
+    {
+      "name": "cloud-azure-firmware-ci-device-action",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/cloud-azure-firmware-ci-device-action/actions/runs/2725656477",
+      "updated_at": "2022-07-24T01:50:26Z"
+    },
+    {
+      "name": "cloud-azure-firmware-ci-feature-runner-action",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/cloud-azure-firmware-ci-feature-runner-action/actions/runs/2725552913",
+      "updated_at": "2022-07-24T00:56:50Z"
+    },
+    {
+      "name": "cloud-azure-firmware-ci-runner-js",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/cloud-azure-firmware-ci-runner-js/actions/runs/2726730125",
+      "updated_at": "2022-07-24T09:20:41Z"
+    },
+    {
+      "name": "cloud-e2e-bdd-test-runner-example-js",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/cloud-e2e-bdd-test-runner-example-js/actions/runs/2725720259",
+      "updated_at": "2022-07-24T02:18:18Z"
+    },
+    {
+      "name": "cloud-e2e-bdd-test-runner-js",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/cloud-e2e-bdd-test-runner-js/actions/runs/2725678520",
+      "updated_at": "2022-07-24T02:00:49Z"
+    },
+    {
+      "name": "cloud-firmware-ci-device-helpers-js",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/cloud-firmware-ci-device-helpers-js/actions/runs/2725816878",
+      "updated_at": "2022-07-24T03:08:05Z"
+    },
+    {
+      "name": "cloud-get-next-version-action",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/cloud-get-next-version-action/actions/runs/2725582991",
+      "updated_at": "2022-07-24T01:11:49Z"
+    },
+    {
+      "name": "e118-iin-list-js",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/e118-iin-list-js/actions/runs/2725661890",
+      "updated_at": "2022-07-24T01:52:49Z"
+    },
+    {
+      "name": "from-env-js",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/from-env-js/actions/runs/2725528433",
+      "updated_at": "2022-07-24T00:44:52Z"
+    },
+    {
+      "name": "nrfcloud-location-services-tests-js",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/nrfcloud-location-services-tests-js/actions/runs/2725667821",
+      "updated_at": "2022-07-24T01:55:39Z"
+    },
+    {
+      "name": "object-to-env-js",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/object-to-env-js/actions/runs/2725696864",
+      "updated_at": "2022-07-24T02:08:38Z"
+    },
+    {
+      "name": "random-words-js",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/random-words-js/actions/runs/2725509990",
+      "updated_at": "2022-07-24T00:36:52Z"
+    },
+    {
+      "name": "rsrp-bar-js",
+      "branch": "saga",
+      "conclusion": "success",
+      "url": "https://github.com/NordicSemiconductor/rsrp-bar-js/actions/runs/2725518269",
+      "updated_at": "2022-07-24T00:40:31Z"
+    }
+  ]
+}
