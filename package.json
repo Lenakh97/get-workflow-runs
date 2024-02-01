@@ -21,7 +21,7 @@
   "homepage": "https://github.com/Lenakh97/get-workflow-runs#readme",
   "devDependencies": {
     "@nordicsemiconductor/asset-tracker-cloud-code-style": "13.1.12",
-    "@types/jest": "29.5.11",
+    "@types/jest": "29.5.12",
     "@types/node": "20.11.15",
     "@types/parse-link-header": "2.0.3",
     "jest": "^29.7.0",
